@@ -9,7 +9,7 @@ Just click on the "forbidSleepingMode.exe" and keep it open.
 Restriction
 ***********
 
-- Only works on Windows with .Net framework 4 (normally already installed on all GSK laptops)
+- Only works on Windows with .Net framework 4 (normally already installed on all updated computers)
 - Only tested on Windows XP (but should work on any later Windows version)
 
 
