@@ -1,0 +1,3 @@
+Just copy the binary in any directory
+
+Requires the Microsoft .Net framework
