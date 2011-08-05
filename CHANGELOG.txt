@@ -1,0 +1,9 @@
+
+History & Changelog
+*******************
+Version 0.2
+- Changed to C++ (with Qt for the GUI)
+- Added interval setting
+
+Version 0.1 - 19/07/2011
+- Initial version in C# with .Net 4
